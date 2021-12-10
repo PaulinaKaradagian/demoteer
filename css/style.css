@@ -212,7 +212,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 /*-- banner-top --*/
 
 .w3layouts-banner-top {
-    background: url(../images/1conlogo.jpg) no-repeat 0px 0px;
+    background: url(../images/1.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -222,7 +222,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 }
 
 .w3layouts-banner-top1 {
-    background: url(../images/2conlogo.jpg) no-repeat 0px 0px;
+    background: url(../images/2.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -232,7 +232,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 }
 
 .w3layouts-banner-top2 {
-    background: url(../images/3conlogo.jpg) no-repeat 0px 0px;
+    background: url(../images/3.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -510,8 +510,9 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 
 /*-- about --*/
 
-.ab-w3-agile-img {
-    background: url(../images/VLAD.jpg) no-repeat 0px 0px;
+
+/* .ab-w3-agile-img {
+    background: url(../images/logovin.png) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -520,7 +521,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     min-height: 750px;
     padding-top: 3em;
     float: right;
-}
+} */
 
 .ab-w3-agile-info {
     float: left;
@@ -532,6 +533,7 @@ h2.title-w3 {
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #111;
+    text-align: center;
 }
 
 .ab-w3-agile-info-text {
@@ -539,14 +541,14 @@ h2.title-w3 {
 }
 
 p.sub-text.one {
-    text-align: left;
+    text-align: center;
 }
 
 .ab-w3-agile-info p {
     font-size: 1em;
     letter-spacing: 2px;
     color: #000;
-    margin: 1em 0;
+    /* margin: 1em 0; */
     line-height: 2em;
 }
 
